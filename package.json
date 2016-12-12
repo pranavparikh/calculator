@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha tests/unitTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavparikh/calculator.git"
+  },
+  "author": "Pranav Parikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavparikh/calculator/issues"
+  },
+  "homepage": "https://github.com/pranavparikh/calculator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

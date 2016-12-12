@@ -1,2 +1,2 @@
 # calculator
-Simple calculator demo
+A dummy project
